@@ -2,7 +2,7 @@
 <h3 align="center">Student at Lovely Professional University. Incoming Full-Stack-Developer and App-developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavitar01" alt="pavitar01" /></a> </p>
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
 - 🌱 I’m currently learning <b>Web and Android development</b>
 
 - 📫 How to reach me:- <b>mickeynegi924@gmail.com</b>
