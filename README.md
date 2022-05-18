@@ -1,6 +1,6 @@
-<body>
-  <body bgcolor="black">
-  <h1 align="center">Hi 👋, I'm Pavitar Singh</h1>
+<html>
+<a href="https://www.youtube.com/channel/UChdVsagWh7ndwIFN7koDLeg/featured"><img align="center" alt="Coding" width="100%" src="https://github.com/Pavitar01/Pavitar01/blob/main/myimg.png?raw=true"></a>
+<h1 align="center">Hi 👋, I'm Pavitar Singh</h1>
 <h3 align="center">Student at Lovely Professional University. Incoming Full-Stack-Developer and App-developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavitar01" alt="pavitar01" /></a> </p>
@@ -24,3 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavitar01&show_icons=true&locale=en" alt="pavitar01" /></p>
 </body>
+  </html>
