@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pavitar singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavitar singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/mwlite/in/pavitar-singh-9a6097160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavitar singh" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_mikey.negi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_mikey.negi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/my code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="my code" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UChdVsagWh7ndwIFN7koDLeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="my code" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@pavitar_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pavitar_singh" height="30" width="40" /></a>
 </p>
 
