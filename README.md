@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [http://pavifolio.netlify.app](http://pavifolio.netlify.app)
 
-- 💬 Ask me about **HTML, CSS,JavaScript, ReactJs, NodeJS, MongoDB**
+- 💬 Ask me about ```HTML, CSS, JavaScript,  MongoDB, Express, ReactJs, NodeJS```
 
 - 📫 How to reach me **mickeynegi924@gmail.com**
 
