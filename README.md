@@ -10,11 +10,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
 - 🌱 I’m currently learning **Bachelors of Computer science & Engineering**
 
-- 👨‍💻 All of my projects are available at [http://pavifolio.netlify.app](http://pavifolio.netlify.app)
-
 - 💬 Ask me about ```HTML, CSS, JavaScript,  MongoDB, Express, ReactJs, NodeJS```
 
-- 📫 How to reach me **mickeynegi924@gmail.com**
+- 📫 How to reach me **03pavitar.dev@gmail.com**
 
 - ⚡ Fun fact **I Am A Web Developer**
 
